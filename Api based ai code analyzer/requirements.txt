@@ -1,0 +1,9 @@
+# AI Code Analyzer Dependencies
+# Python 3.9+ (Recommended: 3.10+)
+
+# Core dependencies
+streamlit>=1.28.0
+requests>=2.31.0
+
+# Environment management (optional)
+python-dotenv>=1.0.0
